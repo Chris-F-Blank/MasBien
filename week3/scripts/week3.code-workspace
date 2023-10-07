@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "week3",
+			"path": "../../../../week3"
+		},
+		{
+			"name": "MasBien",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "MasBien"
+	}
+}
